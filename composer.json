@@ -1,0 +1,13 @@
+{
+    "name": "AngularJS",
+    "description": "Projeto da CodeEducation do curso de AngularJS",
+    "authors": [
+        {
+            "name": "Leonardo"
+        }
+    ],
+    "require": {
+        "silex/silex": "1.0.*@dev"
+    },
+    "minimum-stability": "dev"
+}
